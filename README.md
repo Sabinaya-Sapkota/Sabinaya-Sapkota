@@ -4,7 +4,7 @@
 
 <td align="center" style="border: 2px solid #ff0000; border-radius: 10px; padding: 10px; background-color: #0d1117;">
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0d1117?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117)
 
 </td>
 
