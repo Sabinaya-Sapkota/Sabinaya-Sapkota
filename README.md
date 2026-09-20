@@ -51,9 +51,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabinaya-Sapkota&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="./profile/stats.svg" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinaya-Sapkota&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
+<img src="./profile/top-langs.svg" width="49%" />
 
 <br><br>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabinaya-Sapkota&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="./profile/activity.svg" width="95%" />
 
 </div>
 
