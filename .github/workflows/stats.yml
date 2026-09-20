@@ -3,42 +3,39 @@ name: Update GitHub Stats
 on:
   schedule:
     - cron: "0 3 * * *"
-
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=Sabinaya-Sapkota&show_icons=true&theme=radical&hide_border=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
-      - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=Sabinaya-Sapkota&layout=compact&langs_count=8&theme=radical&hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check stats file
+        run: |
+          test -s profile/stats.svg
+          grep -q "<svg" profile/stats.svg
 
-      - name: Commit generated cards
+      - name: Commit stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/
+          git add profile/stats.svg
 
           git diff --cached --quiet || git commit -m "Update GitHub stats"
 
