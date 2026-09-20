@@ -51,42 +51,56 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabinaya-Sapkota&theme=radical&hide_border=true&show_icons=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinaya-Sapkota&theme=radical&hide_border=true&layout=compact" width="49%" />
+<a href="https://github.com/Sabinaya-Sapkota">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabinaya-Sapkota&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Sabinaya-Sapkota">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinaya-Sapkota&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabinaya-Sapkota&theme=radical&hide_border=true" width="70%" />
 
 </div>
 
-## 📈 Contribution Graph
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Sabinaya-Sapkota&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabinaya-Sapkota&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Sabinaya-Sapkota/Sabinaya-Sapkota/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Sabinaya-Sapkota/Sabinaya-Sapkota/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Sabinaya-Sapkota&theme=radical&no-frame=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Sabinaya-Sapkota&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" />
 
 </div>
 
-## 🔝 Top Contributed Repo
+---
+
+## 🤝 Top Contributions
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Sabinaya-Sapkota&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Sabinaya-Sapkota&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="90%" />
 
 </div>
 
@@ -94,9 +108,10 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Sabinaya-Sapkota&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=Sabinaya-Sapkota&label=Profile%20Views&color=red&style=flat-square" alt="Profile views" />
 
 </div>
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sabinaya_sapkota) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Sabinaya_Sapkota) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sabinaya_sapkota) [![BuyMeMomo](https://img.shields.io/badge/Buy%20Me%20Momo-ffffff?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cGF0aCBkPSJNMjUgNTUgUTI1IDQwIDQwIDQwIFE0MCAzMCA1MCAzMCBRNjAgMzAgNjAgNDAgUTc1IDQwIDc1IDU1IiBmaWxsPSJub25lIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTQwIDMwIFEzOCAyMiA0MiAxNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik01MCAyOCBRNDggMjAgNTIgMTIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0M4MTAyRSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNNjAgMzAgUTYyIDIyIDU4IDE1IiBmaWxsPSJub25lIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTE1IDgwIEw0MCA1NSBMNTAgNjUgTDYwIDU1IEw4NSA4MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAyODY4IiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=black)](https://buymemomo.com/Sabinaya_Sapkota)
