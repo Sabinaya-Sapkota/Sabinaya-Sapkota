@@ -4,25 +4,25 @@
 
 <td align="center" style="border: 2px solid #ff0000; border-radius: 10px; padding: 10px; background-color: #0d1117;">
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0d1117?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 </td>
 
 <td align="center" style="border: 2px solid #ff0000; border-radius: 10px; padding: 10px; background-color: #0d1117;">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117)
 
 </td>
 
 <td align="center" style="border: 2px solid #ff0000; border-radius: 10px; padding: 10px; background-color: #0d1117;">
 
-![Web Development](https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)
+![Web Development](https://img.shields.io/badge/Web%20Development-0d1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
 
 </td>
 
 <td align="center" style="border: 2px solid #ff0000; border-radius: 10px; padding: 10px; background-color: #0d1117;">
 
-![Automation](https://img.shields.io/badge/Automation-0d1117?style=for-the-badge&logo=zapier&logoColor=white&labelColor=0d1117)
+![Automation](https://img.shields.io/badge/Automation-0d1117?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0d1117)
 
 </td>
 
@@ -34,7 +34,7 @@
 
 <td align="center" style="border: 2px solid #ff0000; border-radius: 10px; padding: 10px; background-color: #0d1117;">
 
-![Systems](https://img.shields.io/badge/Systems-0d1117?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
+![Systems](https://img.shields.io/badge/Systems-0d1117?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117)
 
 </td>
 
