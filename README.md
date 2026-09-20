@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabinaya-Sapkota&theme=radical&hide_border=true&include_all_commits=false&count_private=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinaya-Sapkota&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sabinaya-Sapkota&theme=radical&hide_border=true&count_private=true&show_icons=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinaya-Sapkota&theme=radical&hide_border=true&layout=compact" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabinaya-Sapkota&theme=radical&hide_border=true" width="70%" />
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Sabinaya-Sapkota&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sabinaya-Sapkota&theme=radical&no-frame=true&margin-w=4)
 
 </div>
 
