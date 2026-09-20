@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sabinaya-Sapkota&label=Profile%20Views&color=red&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Sabinaya-Sapkota&label=Profile%20Views&style=flat-square" alt="Profile Views" />
 
 </div>
 
