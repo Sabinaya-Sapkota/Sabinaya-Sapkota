@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sabinaya-Sapkota&theme=radical&hide_border=true&count_private=true&show_icons=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sabinaya-Sapkota&theme=radical&hide_border=true&show_icons=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabinaya-Sapkota&theme=radical&hide_border=true&layout=compact" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabinaya-Sapkota&theme=radical&hide_border=true" width="70%" />
