@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sabinaya-Sapkota&label=Profile+Views&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Sabinaya-Sapkota)
 
 </div>
 
